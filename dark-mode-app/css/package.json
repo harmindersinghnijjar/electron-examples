@@ -1,0 +1,21 @@
+{
+  "name": "dark-mode-app",
+  "version": "1.0.0",
+  "description": "An Electron dark mode application using only CSS.",
+  "main": "main.js",
+  "start": "electron .",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "dark-theme",
+    "light-theme",
+    "dark-mode",
+    "light-mode"
+  ],
+  "author": "Harminder Singh Nijjar",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^23.1.0"
+  }
+}
