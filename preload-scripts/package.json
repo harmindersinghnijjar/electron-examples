@@ -1,0 +1,30 @@
+{
+  "name": "preload-scripts",
+  "version": "1.0.0",
+  "description": "An Electron application that makes use of an preloaded script.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harmindersinghnijjar/electron-examples.git"
+  },
+  "keywords": [
+    "preload",
+    "preload.js",
+    "preloaded",
+    "scripts",
+    "electron",
+    "preload"
+  ],
+  "author": "Harminder Singh Nijjar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harmindersinghnijjar/electron-examples/issues"
+  },
+  "homepage": "https://github.com/harmindersinghnijjar/electron-examples#readme",
+  "devDependencies": {
+    "electron": "^23.1.0"
+  }
+}
