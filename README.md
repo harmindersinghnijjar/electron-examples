@@ -4,7 +4,7 @@ A collection of examples for common features that you may want to implement in y
 ### Dark-mode app
 #### 1. CSS
 
-![3pnU6Xb](https://user-images.githubusercontent.com/110620707/219535946-845a02dd-c77f-4cc9-93d2-7543a89b85f8.png)
+![3pnU6Xb](https://user-images.githubusercontent.com/110620707/219535946-845a02dd-c77f-4cc9-93d2-7543a89b85f8.png | 250x250)
 
 ![Dr1aES1](https://user-images.githubusercontent.com/110620707/219535970-a456f2ae-79e9-4bd6-b223-0e0af81c3f0b.png)
 
