@@ -15,6 +15,7 @@ For more installation options and troubleshooting tips, see
 [installation](docs/tutorial/installation.md). For info on how to manage Electron versions in your apps, see
 [Electron versioning](docs/tutorial/electron-versioning.md).
 
+## Examples
 
 ### Dark-mode app
 #### 1. CSS
