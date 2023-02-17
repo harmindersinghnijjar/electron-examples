@@ -1,0 +1,1 @@
+// Add additional code to the switchMode() function to save the status to the local storage.
